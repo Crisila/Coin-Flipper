@@ -42,6 +42,7 @@ button {
 #flip,
 #roll {
     background: linear-gradient(to bottom left, lightblue, white);
+    
 }
 
 #flip:hover,
@@ -68,4 +69,17 @@ td {
 td {
     padding: 5px;
     font-weight: bold;
+}
+
+#status {
+    color: orange;
+    font-size: 24pt;
+
+}
+
+#button-section {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+
 }
